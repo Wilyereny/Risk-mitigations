@@ -19,7 +19,7 @@
     "passport": "^0"
   },
   "devDependencies": {
-    "sqlite3": "^5.0.4"
+    "sqlite3": "^5.1.4"
   },
   "scripts": {
     "start": "cds run",
